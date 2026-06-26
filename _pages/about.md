@@ -33,7 +33,8 @@ My research interest includes multimodal understanding, multimodal representatio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/DCAH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Discretization Is Not Always Better: Rethinking Deep Quantization for Asymmetric Image Retrieval][Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37670)[Code](https://github.com/Xinze919/DCAH)
+Discretization Is Not Always Better: Rethinking Deep Quantization for Asymmetric Image Retrieval
+[\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/37670)[\[Code\]](https://github.com/Xinze919/DCAH)
 **Xinze Liu**, Dayan Wu, Hengjie Zhu, Chenming Wu, Pengwen Dai
 <!-- **AAAI 2026** -->
 
@@ -49,9 +50,9 @@ My research interest includes multimodal understanding, multimodal representatio
 # 📖 Educations
 - *2025.09 - 2028.06*, M.S., Institute of Information Engineering, Chinese Academy of Sciences, and School of Cyber Security, University of Chinese Academy of Sciences
 - *2020.09 - 2024.06*, B.S., School of Computer and Information Engineering, Chuzhou University
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- # 💬 Invited Talks -->
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)≈ -->
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
