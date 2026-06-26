@@ -19,8 +19,6 @@ redirect_from:
 
 I am a 2025 M.S. student at the Institute of Information Engineering, Chinese Academy of Sciences, and the School of Cyber Security, University of Chinese Academy of Sciences, advised by Prof. Dayan Wu. My research interests include multimodal content understanding, multimodal representation learning, and efficient vision-language reasoning.
 
-
-
 <!-- I am a fourth-year direct-entry PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
 My research interest includes multimodal understanding, multimodal representation and discrete representation. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
