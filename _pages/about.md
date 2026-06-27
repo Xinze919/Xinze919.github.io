@@ -46,9 +46,12 @@ My research interest includes multimodal understanding, multimodal representatio
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+
+
+# 💻 Internships
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
 
 # 📖 Educations
 - *2025.09 - 2028.06*, M.S., Institute of Information Engineering, Chinese Academy of Sciences, and School of Cyber Security, University of Chinese Academy of Sciences
@@ -57,5 +60,3 @@ My research interest includes multimodal understanding, multimodal representatio
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)≈ -->
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
