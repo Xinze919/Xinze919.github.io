@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2025 M.S. student at the Institute of Information Engineering, Chinese Academy of Sciences, and the School of Cyber Security, University of Chinese Academy of Sciences, advised by Prof. Dayan Wu. 
+I am a 2025 M.S. student at the Institute of Information Engineering, Chinese Academy of Sciences, and the School of Cyberspace Security, University of Chinese Academy of Sciences, advised by Prof. Dayan Wu. 
 
 My research interests include multimodal content understanding, multimodal representation learning, and efficient vision-language reasoning.
 
