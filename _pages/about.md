@@ -35,6 +35,7 @@ My research interest includes multimodal understanding, multimodal representatio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/HashViT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token](https://arxiv.org/abs/2607.03328)
+<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/DCAH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
