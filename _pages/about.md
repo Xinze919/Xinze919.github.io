@@ -32,11 +32,22 @@ My research interest includes multimodal understanding, multimodal representatio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/HashViT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">preprint</div>
+<img src='images/HashViT.png' alt="sym" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
 [Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token](https://arxiv.org/abs/2607.03328)
+
 <br>
 **Xinze Liu**, Ding Wang, Hengjie Zhu, Dayan Wu
+</div>
+</div>
+
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -45,13 +56,12 @@ My research interest includes multimodal understanding, multimodal representatio
 <img src='images/DCAH.png' alt="sym" width="100%">
 </div>
 </div>
+
 <div class='paper-box-text' markdown="1">
-[Discretization Is Not Always Better: Rethinking Deep Quantization for Asymmetric Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/37670) 
-<!-- [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/37670) [\[Code\]](https://github.com/Xinze919/DCAH) -->
+[Discretization Is Not Always Better: Rethinking Deep Quantization for Asymmetric Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/37670)
+
 <br>
 **Xinze Liu**, Dayan Wu, Hengjie Zhu, Chenming Wu, Pengwen Dai
-<!-- **AAAI 2026** -->
-
 </div>
 </div>
 
