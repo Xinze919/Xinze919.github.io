@@ -44,7 +44,7 @@ My research interest includes multimodal understanding, multimodal representatio
 [Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token](https://arxiv.org/abs/2607.03328)
 
 <br>
-**Xinze Liu**, Ding Wang, Hengjie Zhu, Dayan Wu
+**Xinze Liu**, Ding Wang, Dayan Wu, Hengjie Zhu, Peng Fu, Zheng Lin, Weiping Wang
 </div>
 </div>
 
